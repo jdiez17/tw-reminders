@@ -1,0 +1,2 @@
+class UnknownMethodException(Exception):
+	pass
