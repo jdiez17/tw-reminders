@@ -7,15 +7,15 @@ To create a reminder request, tweet:
     @SendMeAReminder by <method> in <time>: <message>
 
 Where `<method>` can be:
-    * dm 
-    * reply
+* dm 
+* reply
 
 You can use the following keywords to set the `<time>` paramter:
-    * wk / weeks
-    * d / days
-    * h / hours
-    * m / minutes 
-    * s / seconds
+* wk / weeks
+* d / days
+* h / hours
+* m / minutes 
+* s / seconds
 
 `<text>` can be any string.
 
