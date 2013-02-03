@@ -11,11 +11,11 @@ Where `<method>` can be:
     * reply
 
 You can use the following keywords to set the `<time>` paramter:
-    * wk
-    * d
-    * h
-    * m
-    * s
+    * wk / weeks
+    * d / days
+    * h / hours
+    * m / minutes 
+    * s / seconds
 
 `<text>` can be any string.
 
